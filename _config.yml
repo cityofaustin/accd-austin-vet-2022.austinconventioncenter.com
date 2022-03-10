@@ -3,9 +3,9 @@ description: Your one-stop shop for planning your event at the Austin Convention
 url: //austin-vet-2022.austinconventioncenter.com
 start_date: 2022-04-05
 end_date: 2022-04-06
-preliminary_floor_plan_deadline: 2022-03-05
-digital_sign_submission_deadline: 2022-03-21
-incentive_rate_deadline: 2022-03-05
+preliminary_floor_plan_deadline: 2022-03-04
+digital_sign_submission_deadline: 2022-03-20
+incentive_rate_deadline: 2022-03-04
 event_coordinator:
   name: Emily Talley
   email: emily.talley@austintexas.gov
@@ -22,6 +22,10 @@ sales_manager:
   name: Necah Cannon, CASE, CMP, CSEP
   email: necah.cannon@austintexas.gov
   phone: 5124044241
+catering_manager:
+  name: Dawn Mosley
+  email: dmosely@levyrestaurants.com 
+  phone: 5124044254
 it_coordinator:
   name: Chad Paine
   email: chad.paine@austintexas.gov
